@@ -1,5 +1,10 @@
 ![logo](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />, I'm Syeda Rida Shafqat</h1>
+<br/>
+<p align="center">
+  <a href="https://github.com/ridashafqaat/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Currently%20learning%20Java%20Script;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things;A%20passionate%20front%20end%20developer%20from%20Pakistan&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
 <p align="center">
