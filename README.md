@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://codepen.io/rida-shafqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rida-shafqat" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rida-shafqat-a2817b273" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rida-shafqat-a2817b273" height="30" width="40" /></a>
-<a href="https://instagram.com/@syeda_rida.1" target="blank"><img align="center" src="https://www.instagram.com/invites/contact/?i=1nvutcjo0mr9h&utm_content=kjqtlia" alt="@syeda_rida.1" height="30" width="40" /></a>
+<a href="https://instagram.com/@syeda_rida.1" target="blank"><img align="center" src="" alt="@syeda_rida.1" height="30" width="40" /></a>
 <a href="https://medium.com/@ridashafqat282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ridashafqat282" height="30" width="40" /></a>
 </p>
 <hr width="190px">
