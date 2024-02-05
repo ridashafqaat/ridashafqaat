@@ -1,4 +1,4 @@
-
+![logo](https://github.com/ridashafqaat/ridashafqaat/blob/main/banner%20top.gif)
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Syeda Rida Shafqat </h1> 
 <br/>
 
