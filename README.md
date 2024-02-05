@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fiamriishav%2Fiamriishav&psig=AOvVaw3NtK2VSgt43QO7LeyPNcMb&ust=1707216542141000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiG_rmDlIQDFQAAAAAdAAAAABAQ">
-</p>
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Syeda Rida Shafqat </h1> 
 <br/>
 
