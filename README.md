@@ -1,4 +1,7 @@
-![logo](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)
+
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fiamriishav%2Fiamriishav&psig=AOvVaw3NtK2VSgt43QO7LeyPNcMb&ust=1707216542141000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOiG_rmDlIQDFQAAAAAdAAAAABAQ">
+</p>
 <h1 align="center">Hello  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"/>, I'm Syeda Rida Shafqat </h1> 
 <br/>
 
