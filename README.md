@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/ridashafqaat/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Currently%20learning%20Java%20Script;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things;A%20passionate%20front%20end%20developer%20from%20Pakistan&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Front-end%20web%20and%20app%20developer;Currently%20learning%20React;1%2B%20year%20of%20coding%20experience;Always%20learning%20new%20things;A%20passionate%20front%20end%20developer%20from%20Pakistan&font=Fira%20Code&center=true&width=610&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
   
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **React.**
 
-- 💬 Ask me about **HTML,CSS,Materialize & Git.**
+- 💬 Ask me about **HTML,CSS,Materialize,JS,Bootstrap & Git.**
 
 - ⚡ Fun fact **I think i can speak many languages.**
 
